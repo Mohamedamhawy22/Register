@@ -1,4 +1,4 @@
-# resister
+# Register
 
 A new Flutter project.
 
